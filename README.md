@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Ola!!<br>Diga amigo e entre.</h2>
+<h2 align="center">Olá!!<br>Diga amigo e entre.</h2>
 
 ###
 
